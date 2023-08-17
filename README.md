@@ -1,2 +1,4 @@
 # Sales
-Ejemplo de sistema de ventas año 2023
+## introducción
+Ejemplo del sistema de ventas año 2023
+## Matriz de funcionalidad
